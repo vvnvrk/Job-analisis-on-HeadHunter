@@ -57,8 +57,8 @@ Tаблица EMPLOYERS_INDUSTRIES (работодатель-ыфера деят
     * [numpy (1.21.6)](https://numpy.org)
     * [pandas (1.3.5)](https://pandas.pydata.org)
     * [plotly (5.18.0)](https://plotly.com)
-    * [requests ()]()
-    * [urllib ()]()
+    * [requests (2.31.0)]()
+    * [urllib (2.0.7)]()
 
 ## Установка проекта
 
